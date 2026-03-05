@@ -1,3 +1,12 @@
-﻿# Micro Investment 
-Scaffolded multi-module folder structure for MicroDCA.
-This commit creates directory and placeholder Kotlin files so the project layout matches the requested architecture.
+# MicroDCA — Project Description
+
+| Category  | Description                                                                                                                                                                                                                                                                                          |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **What**  | MicroDCA is a mobile app that lets you simulate, backtest, and project Dollar Cost Averaging (DCA) investment strategies using real historical cryptocurrency market data without risking any real money.                                                                                            |
+| **Who**   | Built for retail crypto investors, beginners learning about DCA, and curious users who want to validate “what if I had invested $50/week in Bitcoin for the last 3 years?” all without needing a financial advisor or trading account.                                                             |
+| **Why**   | Most people invest blindly, with no data to back their strategy. MicroDCA solves the lack of accessible, data-driven tools for everyday investors to test and compare investment strategies before committing real capital.                                                                          |
+| **When**  | Used before making investment decisions — during strategy planning, market research, or simply exploring historical scenarios. It also serves as an ongoing portfolio simulation tracker.                                                                                                            |
+| **Where** | An Android-native mobile app, powered by real market data from Bybit's public API, with user data securely stored and synced via Supabase fully functional offline too.                                                                                                                            |
+| **How**   | Users build a DCA strategy (pick an asset, set an amount, frequency, and date range), run a backtest against real historical prices, and get detailed results including ROI, max drawdown, Sharpe ratio, and a Monte Carlo projection of future outcomes all computed on-device. |
+
+---
