@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "micro-DCA"
+rootProject.name = "MyApplication"
 include(":app")
